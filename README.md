@@ -4,8 +4,11 @@
 ### Another note: For me I actually needed to compile Aerosmith into an ISO to get it to not freeze past the RedOctane video. Not a big deal at all though, just confusing.
 
 You will need a Wii ISO manipulation tool such as WiiScrubber (old and kinda sucks but has a GUI) or Wiimms ISO Tools (command line only but works very well)
+
 You can get it here: https://wit.wiimm.de/
+
 I will only be covering how to use the QBs with WIT
+
 
 * Get the game's qb.pak.ngc file from this repository
 
@@ -23,6 +26,8 @@ Once that's done running, you will have a folder with your game files.
 * Open Dolphin Emulator, click Open, navigate to your folder with your extracted files, go in sys/ and double click on main.dol to run the game
 
 Enjoy!
+
+
 If you want an ISO you can use on real hardware, there are some more steps you need to take:
 
 * Navigate where your folder with your ISO is located
