@@ -1,13 +1,13 @@
 # Wii Guitar Hero Debug Menu
 
-### Note: Warriors of Rock is absent. This is because there is currently no known way to access the debug menu in any way on this game on Wii. If a way is found, janky or not, the files will be added.
+### Note: Warriors of Rock is absent. This is because there is currently no known way to access the debug menu in any way on that game on Wii. If a way is found, janky or not, the files will be added.
 ### Another note: For me I actually needed to compile Aerosmith into an ISO to get it to not freeze past the RedOctane video. Not a big deal at all though, just confusing.
 
 You will need a Wii ISO manipulation tool such as WiiScrubber (old and kinda sucks but has a GUI) or Wiimms ISO Tools (command line only but works very well)
 You can get it here: https://wit.wiimm.de/
 I will only be covering how to use the QBs with WIT
 
-* Get the game's qb.pak.ngc file from this folder
+* Get the game's qb.pak.ngc file from this repository
 
 * Dump your legally acquired copy of the game you want or acquire a totally legal copy from a fellow named John "Arby" https://bit.ly/ArbysHasTheMeats (yes that is his last name) (yes we hate piracy here)
 
@@ -25,7 +25,7 @@ Once that's done running, you will have a folder with your game files.
 Enjoy!
 If you want an ISO you can use on real hardware, there are some more steps you need to take:
 
-* Navigate where your folder with your ISOs is located
+* Navigate where your folder with your ISO is located
 
 * Open a terminal in that folder, and run this command:
 ```
