@@ -45,6 +45,7 @@ Once that's done running, you will have an ISO file that can be added to your ha
 ```
 
 Disc IDs are usually formatted like ABCD12, I don't know if this works if it's formatted in any other way. Honestly just get the original disc ID and change the last two characters to 01 or something lol
+
 Also since the menu that appears when you press select doesn't exist on Wii it's not that big of a deal to not have a stock copy on your hard drive.
 
 All done!
