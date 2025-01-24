@@ -1,7 +1,5 @@
 # Wii Guitar Hero Debug Menu
 
-### Note: Warriors of Rock is absent. This is because there is currently no known way to access the debug menu in any way on that game on Wii. If a way is found, janky or not, the files will be added.
-
 You will need a Wii ISO manipulation tool such as Wiimms ISO Tools. You might have to overcome your commandlinephobia for this one.
 
 You can get it here: https://wit.wiimm.de/
